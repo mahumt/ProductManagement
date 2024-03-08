@@ -25,5 +25,4 @@ Feautre: <br>
       # of tasks completed <br>
       # of incidents <br>
 
-      <br>
 ## Marketing Requirement Document (MRD)
