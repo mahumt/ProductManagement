@@ -1,7 +1,8 @@
 #  ProductManagemen <br>
 ## Product Requirement Document <br>
-System used: Appian (low-code technology) <br>
-Goal: Digitize existing internal processes data to move away from chats and email to make audit easier and efficent. Automate the processes to remove manual work allowing focus on more creative high-priority work. <br>
+System used: Low-code technology <br>
+Strategic Goal: Digitize existing internal processes data to move away from chats and email to make audit easier and efficent. Automate the processes to remove manual work allowing focus on more creative high-priority work. <br>
+Planned Goal for specific product. <br>
 <br>
 Epic: Internal processes for each team
 Feautre: <br>
